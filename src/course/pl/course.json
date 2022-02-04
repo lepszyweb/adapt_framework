@@ -1,0 +1,146 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "_classes": "",
+  "_htmlClasses": "",
+  "title": "Adapt v5",
+  "displayTitle": "Wersja 5 Adapt",
+  "description": "Przykładowa demonstracja możliwości frameworka Adapt",
+  "body": "Witaj w przykładowej demonstracji możliwości frameworka Adapt.",
+  "instruction": "",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Wyślij",
+      "ariaLabel": "Wyślij"
+    },
+    "_reset": {
+      "buttonText": "Wyczyść",
+      "ariaLabel": "Wyczyść"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Pokaż poprawną odpowiedź",
+      "ariaLabel": "Pokaż poprawną odpowiedź"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Pokaż twoją odpowiedź",
+      "ariaLabel": "Pokaż twoją odpowiedź"
+    },
+    "_showFeedback": {
+      "buttonText": "Pokaż ocenę",
+      "ariaLabel": "Pokaż ocenę"
+    },
+    "remainingAttemptsText": "pozostałe próby",
+    "remainingAttemptText": "ostatnia próba",
+    "disabledAriaLabel": "Przycisk w tym momencie wyłączony"
+  },
+  "_globals": {
+    "_learnerInfo": {
+      "id": "student.name@example.org",
+      "name": "Nazwa, student",
+      "firstname": "Imię",
+      "lastname": "Nazwisko"
+    },
+    "_accessibility": {
+      "skipNavigationText": "Pomiń nawigację",
+      "_ariaLabels": {
+        "answeredIncorrectly": "Twoja odpowiedź jest niepoprawna",
+        "answeredCorrectly": "Twoja odpowiedź jest poprawna",
+        "selectedAnswer": "zaznaczone",
+        "unselectedAnswer": "niezaznaczone",
+        "skipNavigation": "Pomiń nawigację",
+        "previous": "Wstecz",
+        "navigationDrawer": "Zasoby kursów otwartych.",
+        "close": "Zamknij",
+        "closeDrawer": "Zamknij szufladę",
+        "closeResources": "Zamknij zasoby",
+        "drawer": "Górna część szuflady bocznej",
+        "closePopup": "Zamkniej okno",
+        "next": "Następne",
+        "done": "Zrobione",
+        "complete": "Zakończone",
+        "incomplete": "Niekompletne",
+        "incorrect": "Niepoprawne",
+        "correct": "Poprawne",
+        "locked": "Zablokowane",
+        "visited": "Odwiedzone"
+      }
+    }
+  },
+  "_latestTrackingId": 20,
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": false,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "title": "Zasoby",
+    "description": "Zobacz zasoby tego kursu.",
+    "_filterButtons": {
+      "all": "Wszystkie",
+      "document": "Dokument",
+      "media": "Media",
+      "link": "Linki"
+    },
+    "_filterAria": {
+      "allAria": "Zobacz wszystkie zasoby",
+      "documentAria": "Zobacz dokumenty",
+      "mediaAria": "Zobacz media",
+      "linkAria": "Zobacz linki"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "title": "Motyw Vanilla",
+        "description": "Zobacz próbkę motywu Vanilia.",
+        "_link": "course/pl/images/vanilla-swatch.jpg"
+      },
+      {
+        "_type": "media",
+        "title": "Kanał Adapt Learning na YouTube",
+        "description": "Masz ochotę na nadrobienie zaległości w materiale Adapt? Przejdź na Youtube.",
+        "_link": "https://www.youtube.com/channel/UCW8SlSFuCc--B66Gf9fAEcQ"
+      },
+      {
+        "_type": "link",
+        "title": "Zobacz witrynę projektu Adapt",
+        "description": "Zobacz witrynę projektu.",
+        "_link": "https://www.adaptlearning.org/"
+      },
+      {
+        "_type": "link",
+        "title": "Chat frameworka",
+        "description": "Dołącz do czatu frameworka.",
+        "_link": "https://gitter.im/adaptlearning/adapt_framework"
+      }
+    ]
+  },
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [
+      {
+        "_id": "co-05",
+        "_skipIfComplete": true,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 75,
+    "_correctToPass": 75
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "title": "Wznowienie?",
+    "body": "Czy chcesz wznowić kurs od ostatnio odwiedzonego miejsca?",
+    "_buttons": {
+      "yes": "Tak",
+      "no": "Nie"
+    }
+  }
+}

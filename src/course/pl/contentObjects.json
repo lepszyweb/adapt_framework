@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "co-05",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Komponenty prezentacyjne",
+        "displayTitle": "Komponenty prezentacyjne",
+        "body": "Dowiedz się, jakie komponenty prezentacyjne są dostępne w pakiecie podstawowym i jak możesz je wykorzystać w swoich kursach.",
+        "pageBody": "",
+        "instruction": "Przewiń w dół, aby zobaczyć jakie komponenty prezentacyjne są dostępne jako część rdzennego pakietu Adapt v5.",
+        "_graphic": {
+            "src": "course/pl/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "Zobacz",
+        "duration": "2 minuty",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-10",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Komponenty pytań",
+        "displayTitle": "Komponenty pytań",
+        "body": "Dowiedz się, jakie komponenty pytań są dostępne w ramach frameworka, wraz z kilkoma wskazówkami, jak z nich korzystać.",
+        "pageBody": "Bez różnych komponentów pytań nie możemy łatwo zmierzyć, czy uczący się osiągają zamierzone cele kursu, dostarczyć im wskazówek i informacji zwrotnych, jeśli nie osiągają ich, lub dać im możliwości ćwiczenia w &bdquo;bezpiecznym środowisku&rdquo;.<br><br>Dowiedz się, jakie komponenty pytań są dostępne w ramach frameworka, wraz z kilkoma wskazówkami, jak z nich korzystać.",
+        "instruction": "Przewiń w dół, aby zobaczyć jakie komponenty prezentacyjne są dostępne jako część rdzennego pakietu Adapt v5.",
+        "_graphic": {
+            "src": "course/pl/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "Zobacz",
+        "duration": "2 minuty",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-15",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "assessment",
+        "_htmlClasses": "",
+        "title": "Ocenianie w Adapt",
+        "displayTitle": "Ocenianie w Adapt",
+        "body": "Dowiedz się więcej o funkcjach oceny wprowadzonych w Adapt v2, w tym o bankach losowych pytań i ulepszonej funkcji wyników.",
+        "pageBody": "Stworzyliśmy bardzo krótki quiz, aby zademonstrować nową funkcjonalność oceniania. W tym prostym przykładzie są dwa banki, z których każdy zawiera po trzy pytania, z których dwa są wybierane losowo z każdego banku. Kolejność, w jakiej pytania są prezentowane, jest również losowa, podobnie jak kolejność opcji w każdym pytaniu.",
+        "instruction": "Myślisz, że uda Ci się uzyskać doskonały wynik? Przewiń w dół, aby spróbować odpowiedzieć na pierwsze pytanie.",
+        "_graphic": {
+            "src": "course/pl/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "Zobacz",
+        "duration": "2 minuty",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+{
+        "_id": "co-25",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Treść testowa",
+        "displayTitle": "Treść testowa",
+        "body": "Możesz tutaj dodać cokolwiek chcesz",
+        "pageBody": "",
+        "instruction": "Przewiń w dół, aby zobaczyć jakie komponenty prezentacyjne są dostępne jako część rdzennego pakietu Adapt v5.",
+        "_graphic": {
+            "src": "course/pl/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "Zobacz",
+        "duration": "2 minuty",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    }	
+]
