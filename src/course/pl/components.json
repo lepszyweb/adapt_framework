@@ -402,7 +402,7 @@
             }
         ],
         "_feedback": {
-            "title": "Ocena odpowiedzi",
+            "title": "Informacja zwrotna",
             "correct": "Ocena dobrej odpowiedzi.<br><br>Dobrze! <strong>Opcja 2</strong> tego oczekiwaliśmy!",
             "_incorrect": {
                 "final": "Ocena złej odpowiedzi.<br><br>Przykro, to nie jesst dobra odpowiedź. Tak naprawdę to <strong>Opcja 2</strong> jest tym, czego oczekiwaliśmy (wskazówka była w tekście instrukcji!)."
@@ -444,7 +444,7 @@
             }
         ],
         "_feedback": {
-            "title": "Ocena odpowiedzi",
+            "title": "Informacja zwrotna",
             "correct": "Ocena dobrej odpowiedzi.<br><br>To prawda. Projekt open source Adapt został założony przez Kineo, Kineo, Learning Pool oraz Sponge. W momencie pisania tego tekstu, istnieje w sumie dziewięciu <a href='https://www.adaptlearning.org/index.php/collaborators/' target='_blank'>oficjalnych współtwórców</a>.<br><br><br><br><i>Fakty o komponencie: Komponenty <b>Wpisz tekst</b> pozwalają uczącym się wprowadzać własne odpowiedzi, co jest świetne dla pytań, które wymagają nieco większej elastyczności, jak te z odpowiedziami, które mogą być napisane zarówno jako pełne słowa, jak i liczby.</i>",
             "_partlyCorrect": {
                 "final": "Ocena częściowo dobrej odpowiedzi.<br><br>To częściowo prawda. Projekt open source Adapt został założony przez Kineo, Kineo, Learning Pool oraz Sponge. W momencie pisania tego tekstu, istnieje w sumie dziewięciu <a href='https://www.adaptlearning.org/index.php/collaborators/' target='_blank'>oficjalnych współtwórców</a>.<br><br><br><br><i>Fakty o komponencie: Komponenty <b>Wpisz tekst</b> pozwalają uczącym się wprowadzać własne odpowiedzi, co jest świetne dla pytań, które wymagają nieco większej elastyczności, jak te z odpowiedziami, które mogą być napisane zarówno jako pełne słowa, jak i liczby.</i>"
@@ -559,7 +559,7 @@
             }
         ],
         "_feedback": {
-            "title": "Ocena odpowiedzi",
+            "title": "Informacja zwrotna",
             "correct": "Ocena dobrej odpowiedzi.<br><br>Tak, to prawda. Adapt został założony jako projekt Open Source w 2013 roku. Web Accessibility Initiative (WAI) opublikowała wytyczne WCAG 2.0 w 2008 roku, a hebrajski jest jedynym językiem z czterech przedstawionych, który czyta się od prawej do lewej. Fakty o komponencie:<br><br><i>Komponent <b>Dopasowanie</b> pozwala dopasować serię pytań lub stwierdzeń do odpowiadających im opcji z rozwijanego pola. Komponent może być pojedynczy lub łączony.",
             "_partlyCorrect": {
                 "final": "Ocena częściowo dobrej odpowiedzi.<br><br>To częściowo poprawna odpowiedź. Adapt został założony jako projekt Open Source w 2013 roku. Web Accessibility Initiative (WAI) opublikowała wytyczne WCAG 2.0 w 2008 roku, a hebrajski jest jedynym językiem z czterech przedstawionych, który czyta się od prawej do lewej. Fakty o komponencie:<br><br><i>Komponent <b>Dopasowanie</b> pozwala dopasować serię pytań lub stwierdzeń do odpowiadających im opcji z rozwijanego pola. Komponent może być pojedynczy lub łączony.</i>"
@@ -600,7 +600,7 @@
             "_top": 9
         },
         "_feedback": {
-            "title": "Ocena odpowiedzi",
+            "title": "Informacja zwrotna",
             "correct": "Ocena dobrej odpowiedzi.<br><br>Tak, poprawna odpowiedź. Według pracy Millera 7 +/- 2 fragmenty informacji to ograniczona pojemność pamięci roboczej. Różne teorie z dziedziny psychologii poznawczej, takie jak <a href='http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two' target='_blank'>magiczna liczba</a> Millera, <a href='http://en.wikipedia.org/wiki/Chunking_%28psychology%29#Chunking_as_the_learning_of_long-term_memory_structures' target='_blank'>porcjowanie</a>, <a href='http://en.wikipedia.org/wiki/Forgetting_curve' target='_blank'>krzywa zapominania</a> oraz <a href='http://en.wikipedia.org/wiki/Spaced_repetition' target='_blank'>powtarzanie w odstępach czasu</a> wpłynęły na teorię uczenia się w ciągu ostatnich 50 lat<br><br><i>Fakty o komponencie: Prawidłowa odpowiedź dla komponentu <b>Suwak</b> może być dokładną liczbą lub zakresem. W tym przypadku ustawiliśmy poprawną odpowiedź na zakres 5-9, ponieważ poprawną odpowiedzią jest siedem plus minus dwa. Komponent może być pojedynczy lub łączony.</i>",
             "_incorrect": {
                 "final": "Ocena złej odpowiedzi.<br><br>Niestety, to nie jest poprawnie. Według pracy Millera 7 +/- 2 fragmenty informacji to ograniczona pojemność pamięci roboczej. Różne teorie z dziedziny psychologii poznawczej, takie jak <a href='http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two' target='_blank'>magiczna liczba</a> Millera, <a href='http://en.wikipedia.org/wiki/Chunking_%28psychology%29#Chunking_as_the_learning_of_long-term_memory_structures' target='_blank'>porcjowanie</a>, <a href='http://en.wikipedia.org/wiki/Forgetting_curve' target='_blank'>krzywa zapominania</a> oraz <a href='http://en.wikipedia.org/wiki/Spaced_repetition' target='_blank'>powtarzanie w odstępach czasu</a> wpłynęły na teorię uczenia się w ciągu ostatnich 50 lat<br><br><i>Fakty o komponencie: Prawidłowa odpowiedź dla komponentu <b>Suwak</b> może być dokładną liczbą lub zakresem. W tym przypadku ustawiliśmy poprawną odpowiedź na zakres 5-9, ponieważ poprawną odpowiedzią jest siedem plus minus dwa. Komponent może być pojedynczy lub łączony.</i>"
