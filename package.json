@@ -4,7 +4,7 @@
     "description": "Adapt Learning output framework",
     "repository": {
         "type": "git",
-        "url": "git://github.com/adaptlearning/adapt_framework.git"
+        "url": "git://github.com/lepszyweb/adapt_framework.git"
     },
     "scripts": {
         "preinstall": "node gitmodules.js",
